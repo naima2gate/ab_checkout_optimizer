@@ -1,0 +1,7 @@
+Metric,Value
+Lift (CUPED),7.545807801760626
+theta,0.13939195639705165
+Posterior mean lift,7.54576924201027
+P(lift>0),0.999578115686715
+P(lift in ROPE),6.716747193229904e-06
+Sequential stop look,8.0
